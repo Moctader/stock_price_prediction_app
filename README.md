@@ -1,4 +1,4 @@
-# Employee Future Predict
+# stock_price_prediction_app
 
 ## Motivation
 In a data science team, it is common to continuously try to find a better model than the existing one in production. It is important to make sure the service doesn't break when the new model is deployed. 
