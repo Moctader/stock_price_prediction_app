@@ -1,0 +1,19 @@
+n_estimators: 180
+max_depth:
+  low: 3
+  high: 18
+  q: 1
+min_samples_split:
+  low: 2
+  high: 10
+  q: 1
+min_samples_leaf:
+  low: 1
+  high: 5
+  q: 1
+max_features:
+  low: 0.5
+  high: 1
+bootstrap: true
+seed: 0
+path: "models/randomforest.pkl"  # Ensure this is a file path, not a directory
